@@ -3,6 +3,8 @@ dbgenerator.php
 tests/
 bl-content/*
 !bl-content/.keep
+!bl-content/databases/
+!bl-content/databases/site.php
 bl-content-migrator
 bl-plugins/gallery
 bl-plugins/timemachine
