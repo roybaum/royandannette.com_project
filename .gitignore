@@ -39,3 +39,4 @@ php85-server.log
 analyze-logs.sh
 scripts/*
 logs/*
+.vscode/sftp.json
