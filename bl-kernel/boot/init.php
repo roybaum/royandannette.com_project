@@ -171,6 +171,22 @@ if (strpos($_SERVER['REQUEST_URI'], $base) !== 0) {
 	$base = '/';
 }
 
+// On local hosts, force the runtime site URL to the current request host.
+// This prevents redirects from using a production URL stored in the database.
+$httpHostRaw = isset($_SERVER['HTTP_HOST']) ? strtolower(trim($_SERVER['HTTP_HOST'])) : '';
+$httpHost = parse_url('http://' . $httpHostRaw, PHP_URL_HOST);
+if ($httpHost === false || $httpHost === null) {
+	$httpHost = $httpHostRaw;
+}
+
+$isLocalHost = in_array($httpHost, array('localhost', '127.0.0.1', '::1'), true);
+$isTestTLD = (strlen($httpHost) > 5) && (substr($httpHost, -5) === '.test');
+if ($isLocalHost || $isTestTLD) {
+	$protocol = !empty($_SERVER['HTTPS']) ? 'https://' : 'http://';
+	$basePath = ($base === '/') ? '' : rtrim($base, '/');
+	$site->db['url'] = $protocol . $httpHost . $basePath;
+}
+
 define('HTML_PATH_ROOT', 		$base);
 define('HTML_PATH_THEMES',		HTML_PATH_ROOT . 'bl-themes/');
 define('HTML_PATH_THEME',		HTML_PATH_THEMES . $site->theme() . '/');

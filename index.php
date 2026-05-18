@@ -32,9 +32,6 @@ define('PATH_BOOT', PATH_ROOT.'bl-kernel'.DS.'boot'.DS);
 // Init
 require(PATH_BOOT.'init.php');
 
-// Load environment-specific settings
-require_once __DIR__ . '/config.php';
-
 // Admin area
 if ($url->whereAmI()==='admin') {
 	require(PATH_BOOT.'admin.php');
