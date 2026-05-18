@@ -1,9 +1,18 @@
-Kansas
+<h1>Kansas</h1>
 
-Roy and Annette's geocaching progress in Kansas.
+<p><a href="https://project-gc.com/Tools/MapCounties?pre_pr_profileName=roy%26annette&amp;pre_crc_country=United+States&amp;pre_crc_region=Kansas&amp;post_crc_country=United+States&amp;post_crc_region=Kansas&amp;submit=Filter">PGC Counties</a></p>
 
-[PGC Counties](https://project-gc.com/Tools/MapCounties?pre_pr_profileName=roy%26annette&pre_crc_country=United+States&pre_crc_region=Kansas&post_crc_country=United+States&post_crc_region=Kansas&submit=Filter)
+<p><a href="https://project-gc.com/Challenges/GCQ0XH/17025">PGC Delorme Challenge Checker</a></p>
 
-[PGC Delorme Challenge Checker](https://project-gc.com/Challenges/GCQ0XH/17025)
+<p>Counties and Delormes</p>
 
-Counties and DeLorme challenges tracking their completion progress.
+<p>&nbsp;<img alt="" src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.KSCountyMap.jpg?random=7986" /><br />
+<br />
+<img alt="" src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KSCountyMap.jpg?random=7986" /></p>
+
+<p><img alt="" src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KSDeLorme.jpg?random=7986" /><br />
+<br />
+<img alt="" src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KSDeLorme.List.jpg?random=7986" /><br />
+<br />
+<a href="https://project-gc.com/Tools/MapCounties?profile_name=roy%26annette&amp;country=United+States®ion=Kansas&amp;submit=Filter"><img 540px="" alt="" border="0" src="" /></a></p>
+<https: mapcounties="" project-gc.com="" tools=""> </https:>

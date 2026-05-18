@@ -1,3 +1,507 @@
-Welcome to Roy and Annette's New Geocaching Site
-
-Profile created using MyGeocachingProfile.com
+﻿<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.Chronology.FindsByDayOfWeek.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.Chronology.FindsByMonth.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.CacheTypes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.cachetypestats.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.Attributes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.Attributes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CachingRadius_NearFarMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CachingRadius_NSEWMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CachingRadius_LongestDistance.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WorldMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WorldMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.USMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.USMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.USCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.USCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.ARCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ARCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AZCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.AZCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.CACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.COCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.COCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.GACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.IACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.IACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.IDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.IDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.ILCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ILCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.INCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.INCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.KSCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KSCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.KYCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KYCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.LACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.LACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MICountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MICountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MNCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MNCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MOCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MOCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MSCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MSCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MTCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MTCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NECountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NECountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NMCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NMCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NVCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NVCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.OHCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.OHCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.OKCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.OKCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.PACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.PACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.SDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.SDCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.TNCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.TNCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.TXCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.TXCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.UTCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UTCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.VACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.VACountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WICountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WICountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WVCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WVCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WYCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WYCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AL.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ALDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ALDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AR.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ARDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ARDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AZ.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.AZDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.AZDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.CANorthernDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CANorthernDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.CO.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CODeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CODeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.GA.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GADeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GADeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.IA4Trailblazer.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.IA4TrailblazerDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.IA4TrailblazerDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.ID.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.IDDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.IL.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ILDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ILDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.IN.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.INDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.INDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.KS.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KSDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KSDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.KY.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KYDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.KYDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.LA.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.LADeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.LADeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MDDE.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MDDEDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MDDEDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MN.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MNDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MNDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MO.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MODeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MODeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MS.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MSDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MSDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MT.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MTDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MTDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.ND.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NDDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NDDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NEFresh.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NEFreshDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NEFreshDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NERetro.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NERetroDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NERetroDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NM.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NMDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NMDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.NV.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.NVDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.OH.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.OHDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.OHDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.OK.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.OKDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.OKDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.PA2001.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.PA2001DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.PA2001DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.RI5.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.RI5DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.RI5DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.SD4.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.SD4DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.SD4DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.SD4Retro.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.SD4RetroDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.SD4RetroDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.TN.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.TNDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.TNDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.TX.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.TXDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.TXDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.UT1to6.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UT1to6DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UT1to6DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.UT7.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UT7DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UT7DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.VA.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.VADeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.VADeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WI10.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WI10DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WI10DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WV.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WVDeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WVDeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.WY6.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WY6DeLorme.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.WY6DeLorme.List.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.UKIrelandCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UKIrelandCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.UKIrelandCountyList.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.CanadaCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CanadaCountyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CanadaCountyList.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.CzechiaMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.CzechiaMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.ItalyMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.ItalyMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AustriaMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.AustriaMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.FinlandMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.FinlandMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.PolandMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.PolandMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.DenmarkMap.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.DenmarkMap.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.MWRD.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MostWellRoundedDay_CacheTypes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MostWellRoundedDay_ContainerTypes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MostWellRoundedDay_DiffTerrTypes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MostWellRoundedDay_Countries.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.MostWellRoundedDay_USStates.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.FizzyChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.difficultymatrix.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.FizzyStateChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.FizzyCacheTypeChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.FizzyContainerChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.FizzyAttributeChallenge.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.JasmerChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.JasmerChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.JasmerChallengeList.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.FindsByPlacedDateChallenge.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.FindsByPlacedDateChallenge.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.Birthday.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.BirthdayChart.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.BirthdayList.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AlphaNumericCacheName.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.AlphaNumericCacheName.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.AlphaNumeric.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.AlphaNumeric.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;<img src="https://www.mygeocachingprofile.com/images/profileTitles/Title.Single.GeoAchievements.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsProlific.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsWellRounded.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsGeoStreak.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsGeoFrenzy.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsAllAmerican.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsEuropean.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsContinental.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievements366.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsFTF.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsFiveFive.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsAttributes.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsMystery.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsMulti.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsVirtual.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsLetterbox.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsEarthcacheCount.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsWebcam.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsCITO.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsEvents.jpg?random=8817" alt="" /><br />
+<br />
+<img src="https://www.mygeocachingprofile.com/userstatistics/r/roy&amp;annette/roy&amp;annette.GeoAchievementsWherigo.jpg?random=8817" alt="" /><br />
+<br />
+&nbsp;&nbsp;Profile created using <a href="https://www.mygeocachingprofile.com">MyGeocachingProfile.com</a><br />
+&nbsp;

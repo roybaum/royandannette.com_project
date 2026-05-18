@@ -9,27 +9,76 @@
 		<div class="collapse navbar-collapse" id="navbarResponsive">
 
 			<ul class="navbar-nav ml-auto">
+				<?php
+				$topLevelMenuKeys = array('home', 'states', 'challenges', 'more', 'contact');
 
-				<!-- Blog link (when homepage is set to a static page) -->
-				<?php if ($site->homepage()): ?>
-				<li class="nav-item<?php echo ($WHERE_AM_I === 'blog') ? ' active' : ''; ?>">
-					<a class="nav-link" href="<?php echo DOMAIN_BASE . ltrim($url->filters('blog'), '/') ?>">
-						<?php echo $L->get('Blog') ?>
+				foreach ($topLevelMenuKeys as $menuKey):
+					$menuPage = buildPage($menuKey);
+					if (!$menuPage) {
+						continue;
+					}
+
+					$isCurrent = false;
+					if ($WHERE_AM_I === 'home' && $menuKey === 'home') {
+						$isCurrent = true;
+					} elseif ($page) {
+						$currentKey = $page->key();
+						$isCurrent = ($currentKey === $menuPage->key()) || Text::startsWith($currentKey, $menuPage->key() . '/');
+					}
+
+					$children = $menuPage->children();
+
+					// Fallback for content trees where parent is stored in DB field but keys are not nested.
+					if (empty($children) && isset($pages)) {
+						$publishedPagesDB = $pages->getPublishedDB(false);
+						$childRows = array();
+
+						foreach ($publishedPagesDB as $candidateKey => $candidateFields) {
+							if (isset($candidateFields['parent']) && $candidateFields['parent'] === $menuPage->key()) {
+								$childRows[] = array(
+									'key' => $candidateKey,
+									'position' => (int) $candidateFields['position']
+								);
+							}
+						}
+
+						usort($childRows, function ($a, $b) {
+							return $a['position'] <=> $b['position'];
+						});
+
+						foreach ($childRows as $childRow) {
+							$childPage = buildPage($childRow['key']);
+							if ($childPage) {
+								$children[] = $childPage;
+							}
+						}
+					}
+
+					$hasChildren = !empty($children);
+				?>
+
+				<?php if ($hasChildren): ?>
+				<li class="nav-item dropdown<?php echo $isCurrent ? ' active' : ''; ?>">
+					<a class="nav-link dropdown-toggle" href="<?php echo $menuPage->permalink(); ?>" id="navDropdown-<?php echo $menuPage->key(); ?>" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<?php echo $menuPage->title(); ?>
 					</a>
+					<div class="dropdown-menu" aria-labelledby="navDropdown-<?php echo $menuPage->key(); ?>">
+						<?php foreach ($children as $childPage): ?>
+							<a class="dropdown-item" href="<?php echo $childPage->permalink(); ?>"><?php echo $childPage->title(); ?></a>
+						<?php endforeach; ?>
+					</div>
 				</li>
-				<?php endif; ?>
-
-				<!-- Static pages -->
-				<?php foreach ($staticContent as $staticPage): ?>
-				<li class="nav-item<?php echo ($page && $page->key() === $staticPage->key()) ? ' active' : ''; ?>">
-					<a class="nav-link" href="<?php echo $staticPage->permalink(); ?>">
-						<?php echo $staticPage->title(); ?>
-						<?php if ($page && $page->key() === $staticPage->key()): ?>
+				<?php else: ?>
+				<li class="nav-item<?php echo $isCurrent ? ' active' : ''; ?>">
+					<a class="nav-link" href="<?php echo $menuPage->permalink(); ?>">
+						<?php echo $menuPage->title(); ?>
+						<?php if ($isCurrent): ?>
 							<span class="sr-only">(<?php echo $L->get('current'); ?>)</span>
 						<?php endif; ?>
 					</a>
 				</li>
-				<?php endforeach ?>
+				<?php endif; ?>
+				<?php endforeach; ?>
 
 				<!-- Social Networks -->
 				<?php foreach (Theme::socialNetworks() as $key=>$label): ?>
