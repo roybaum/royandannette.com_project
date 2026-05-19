@@ -1,42 +1,49 @@
+<?php
+$showSearchBox = false;
+$searchPlugin = null;
+if (pluginActivated('pluginSearch')) {
+	$searchPlugin = getPlugin('pluginSearch');
+	$showSearchBox = true;
+	if ($WHERE_AM_I === 'search' && $searchPlugin->getResultCount() === 0) {
+		$showSearchBox = false;
+	}
+}
+
+$showHeroText = ($WHERE_AM_I !== 'search') && (!Text::isEmpty($site->slogan()) || !Text::isEmpty($site->description()));
+$showHero = $showHeroText || $showSearchBox;
+?>
+
+<?php if ($showHero) : ?>
 <!-- Hero Section -->
 <header class="hero" role="banner">
 	<div class="container">
 		<div class="hero-content">
 			<!-- Site slogan as main headline (hidden during search) -->
-			<?php if ($WHERE_AM_I !== 'search') : ?>
+			<?php if ($WHERE_AM_I !== 'search' && !Text::isEmpty($site->slogan())) : ?>
 				<h1 class="hero-title"><?php echo $site->slogan(); ?></h1>
+			<?php endif ?>
 
-				<!-- Site description -->
-				<?php if ($site->description()) : ?>
-					<p class="hero-subtitle"><?php echo $site->description(); ?></p>
-				<?php endif ?>
+			<!-- Site description -->
+			<?php if ($WHERE_AM_I !== 'search' && !Text::isEmpty($site->description())) : ?>
+				<p class="hero-subtitle"><?php echo $site->description(); ?></p>
 			<?php endif ?>
 
 			<!-- Custom search form if the plugin "search" is enabled -->
-			<?php
-			if (pluginActivated('pluginSearch')) {
-				$searchPlugin = getPlugin('pluginSearch');
-				$showSearchBox = true;
-				if ($WHERE_AM_I === 'search' && $searchPlugin->getResultCount() === 0) {
-					$showSearchBox = false;
-				}
+			<?php if ($showSearchBox) : ?>
+				<div class="hero-search">
+					<form class="search-form" role="search" onsubmit="return searchNow();">
+						<label for="search-input" class="sr-only"><?php $language->p('Search') ?></label>
+						<div class="search-input-wrapper">
+							<svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+								<circle cx="11" cy="11" r="8"></circle>
+								<path d="M21 21l-4.35-4.35"></path>
+							</svg>
+							<input id="search-input" class="form-control" type="search" placeholder="<?php $language->p('Search') ?>" aria-label="<?php $language->p('Search') ?>" value="<?php echo ($WHERE_AM_I==='search'?htmlspecialchars($searchPlugin->getSearchTerm(), ENT_QUOTES, 'UTF-8'):'') ?>">
+						</div>
+					</form>
+				</div>
+			<?php endif ?>
 
-				if ($showSearchBox) : ?>
-					<div class="hero-search">
-						<form class="search-form" role="search" onsubmit="return searchNow();">
-							<label for="search-input" class="sr-only"><?php $language->p('Search') ?></label>
-							<div class="search-input-wrapper">
-								<svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-									<circle cx="11" cy="11" r="8"></circle>
-									<path d="M21 21l-4.35-4.35"></path>
-								</svg>
-								<input id="search-input" class="form-control" type="search" placeholder="<?php $language->p('Search') ?>" aria-label="<?php $language->p('Search') ?>" value="<?php echo ($WHERE_AM_I==='search'?htmlspecialchars($searchPlugin->getSearchTerm(), ENT_QUOTES, 'UTF-8'):'') ?>">
-							</div>
-						</form>
-					</div>
-				<?php endif;
-			}
-			?>
 			<?php if (pluginActivated('pluginSearch')) : ?>
 				<script>
 					function searchNow() {
@@ -53,6 +60,7 @@
 		</div>
 	</div>
 </header>
+<?php endif ?>
 
 <!-- Main content area -->
 <main role="main">
@@ -88,12 +96,14 @@
 						<!-- Load Bludit Plugins: Page Begin -->
 						<?php Theme::plugins('pageBegin'); ?>
 
-						<!-- Page title -->
-						<header>
-							<h2 class="title" itemprop="headline">
-								<a class="text-dark" href="<?php echo $page->permalink(); ?>" itemprop="url"><?php echo $page->title(); ?></a>
-							</h2>
-						</header>
+						<!-- Page title (hidden for the configured homepage page) -->
+						<?php if ($page->key() !== $site->homepage()) : ?>
+							<header>
+								<h2 class="title" itemprop="headline">
+									<a class="text-dark" href="<?php echo $page->permalink(); ?>" itemprop="url"><?php echo $page->title(); ?></a>
+								</h2>
+							</header>
+						<?php endif ?>
 
 						<!-- Page description -->
 						<?php if ($page->description()) : ?>

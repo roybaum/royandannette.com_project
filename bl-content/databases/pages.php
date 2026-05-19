@@ -181,7 +181,7 @@
         "noarchive": false
     },
     "kansas": {
-        "title": "KS",
+        "title": "Kansas",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -201,7 +201,7 @@
         "noarchive": false
     },
     "colorado": {
-        "title": "CO",
+        "title": "Colorado",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -221,7 +221,7 @@
         "noarchive": false
     },
     "al": {
-        "title": "AL",
+        "title": "Alabama",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -241,7 +241,7 @@
         "noarchive": false
     },
     "az": {
-        "title": "AZ",
+        "title": "Arizona",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -261,7 +261,7 @@
         "noarchive": false
     },
     "ar": {
-        "title": "AR",
+        "title": "Arkansas",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -281,7 +281,7 @@
         "noarchive": false
     },
     "ca": {
-        "title": "CA",
+        "title": "California",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -301,7 +301,7 @@
         "noarchive": false
     },
     "fl": {
-        "title": "FL",
+        "title": "Florida",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -321,7 +321,7 @@
         "noarchive": false
     },
     "ga": {
-        "title": "GA",
+        "title": "Georgia",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -341,7 +341,7 @@
         "noarchive": false
     },
     "id": {
-        "title": "ID",
+        "title": "Idaho",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -361,7 +361,7 @@
         "noarchive": false
     },
     "il": {
-        "title": "IL",
+        "title": "Illinois",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -381,7 +381,7 @@
         "noarchive": false
     },
     "in": {
-        "title": "IN",
+        "title": "Indiana",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -401,7 +401,7 @@
         "noarchive": false
     },
     "ia": {
-        "title": "IA",
+        "title": "Iowa",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -421,7 +421,7 @@
         "noarchive": false
     },
     "ky": {
-        "title": "KY",
+        "title": "Kentucky",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -441,7 +441,7 @@
         "noarchive": false
     },
     "la": {
-        "title": "LA",
+        "title": "Louisiana",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -461,7 +461,7 @@
         "noarchive": false
     },
     "md": {
-        "title": "MD",
+        "title": "Maryland",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -481,7 +481,7 @@
         "noarchive": false
     },
     "mi": {
-        "title": "MI",
+        "title": "Michigan",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -501,7 +501,7 @@
         "noarchive": false
     },
     "mn": {
-        "title": "MN",
+        "title": "Minnesota",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -521,7 +521,7 @@
         "noarchive": false
     },
     "ms": {
-        "title": "MS",
+        "title": "Mississippi",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -541,7 +541,7 @@
         "noarchive": false
     },
     "mo": {
-        "title": "MO",
+        "title": "Missouri",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -561,7 +561,7 @@
         "noarchive": false
     },
     "mt": {
-        "title": "MT",
+        "title": "Montana",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -581,7 +581,7 @@
         "noarchive": false
     },
     "ne": {
-        "title": "NE",
+        "title": "Nebraska",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -601,7 +601,7 @@
         "noarchive": false
     },
     "nd": {
-        "title": "ND",
+        "title": "North Dakota",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -621,7 +621,7 @@
         "noarchive": false
     },
     "nm": {
-        "title": "NM",
+        "title": "New Mexico",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -641,7 +641,7 @@
         "noarchive": false
     },
     "nv": {
-        "title": "NV",
+        "title": "Nevada",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -661,7 +661,7 @@
         "noarchive": false
     },
     "oh": {
-        "title": "OH",
+        "title": "Ohio",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -681,7 +681,7 @@
         "noarchive": false
     },
     "ok": {
-        "title": "OK",
+        "title": "Oklahoma",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -701,7 +701,7 @@
         "noarchive": false
     },
     "pa": {
-        "title": "PA",
+        "title": "Pennsylvania",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -721,7 +721,7 @@
         "noarchive": false
     },
     "sd": {
-        "title": "SD",
+        "title": "South Dakota",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -741,7 +741,7 @@
         "noarchive": false
     },
     "tn": {
-        "title": "TN",
+        "title": "Tennessee",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -761,7 +761,7 @@
         "noarchive": false
     },
     "tx": {
-        "title": "TX",
+        "title": "Texas",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -781,7 +781,7 @@
         "noarchive": false
     },
     "ut": {
-        "title": "UT",
+        "title": "Utah",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -801,7 +801,7 @@
         "noarchive": false
     },
     "va": {
-        "title": "VA",
+        "title": "Virginia",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -821,7 +821,7 @@
         "noarchive": false
     },
     "wi": {
-        "title": "WI",
+        "title": "Wisconsin",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -841,7 +841,7 @@
         "noarchive": false
     },
     "wv": {
-        "title": "WV",
+        "title": "West Virginia",
         "description": "",
         "username": "admin",
         "tags": [],
@@ -861,7 +861,7 @@
         "noarchive": false
     },
     "wy": {
-        "title": "WY",
+        "title": "Wyoming",
         "description": "",
         "username": "admin",
         "tags": [],

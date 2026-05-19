@@ -36,13 +36,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 mx-auto">
+				<?php $hideTemplateTitle = ($page->getValue('parent') === 'states'); ?>
+
 				<!-- Load Bludit Plugins: Page Begin -->
 				<?php Theme::plugins('pageBegin'); ?>
 
 				<!-- Page header -->
 				<header class="page-header mb-4">
 					<!-- Page title -->
-					<h1 class="title" itemprop="headline"><?php echo $page->title(); ?></h1>
+					<?php if (!$hideTemplateTitle) : ?>
+						<h1 class="title" itemprop="headline"><?php echo $page->title(); ?></h1>
+					<?php endif ?>
 
 					<?php if (!$page->isStatic() && !$url->notFound() && $themePlugin->showPostInformation()) : ?>
 						<div class="page-meta text-muted mb-3">

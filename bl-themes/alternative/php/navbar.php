@@ -10,7 +10,7 @@
 
 			<ul class="navbar-nav ml-auto">
 				<?php
-				$topLevelMenuKeys = array('home', 'states', 'challenges', 'more', 'contact');
+				$topLevelMenuKeys = array('states', 'challenges', 'more', 'contact');
 
 				foreach ($topLevelMenuKeys as $menuKey):
 					$menuPage = buildPage($menuKey);
