@@ -62,7 +62,7 @@
 					<a class="nav-link dropdown-toggle" href="<?php echo $menuPage->permalink(); ?>" id="navDropdown-<?php echo $menuPage->key(); ?>" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						<?php echo $menuPage->title(); ?>
 					</a>
-					<div class="dropdown-menu" aria-labelledby="navDropdown-<?php echo $menuPage->key(); ?>">
+					<div class="dropdown-menu<?php echo $menuKey === 'states' ? ' dropdown-menu-states' : ''; ?>" aria-labelledby="navDropdown-<?php echo $menuPage->key(); ?>">
 						<?php foreach ($children as $childPage): ?>
 							<a class="dropdown-item" href="<?php echo $childPage->permalink(); ?>"><?php echo $childPage->title(); ?></a>
 						<?php endforeach; ?>

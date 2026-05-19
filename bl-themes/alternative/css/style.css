@@ -392,6 +392,28 @@ img.nav-svg-icon:hover {
 	font-weight: var(--font-weight-semibold);
 }
 
+.dropdown-menu-states {
+	max-height: min(70vh, 32rem);
+	overflow-y: auto;
+	overflow-x: hidden;
+	-webkit-overflow-scrolling: touch;
+	column-gap: 1rem;
+	min-width: 22rem;
+}
+
+.dropdown-menu-states .dropdown-item {
+	display: inline-block;
+	width: 100%;
+	break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+@media (min-width: 768px) {
+	.dropdown-menu-states {
+		column-count: 2;
+	}
+}
+
 /* ==========================================================================
    Footer
    ========================================================================== */
